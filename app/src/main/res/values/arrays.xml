@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listeEmployee">
+        <item>John Kalombo</item>
+        <item>Dunia Matumbo</item>
+        <item>Junior Kadima</item>
+        <item>Katembo Julia</item>
+        <item>Tshimanga Kalombo</item>
+        <item>Katumu Gaddiel</item>
+    </string-array>
+
+    <string-array name="listeConsultants">
+        <item>Mbombo Lusile</item>
+        <item>Kadima Kazadi</item>
+        <item>Luzito Mampuya</item>
+        <item>Mampuya Longange</item>
+        <item>Mbuyi Kadima</item>
+        <item>Kanyinda Bravo</item>
+    </string-array>
+</resources>
